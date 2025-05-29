@@ -15,5 +15,5 @@ A fully responsive modern digital agency website built using HTML5, CSS3, Bootst
    Swiper.js-powered sliders for Portfolio & Team
    Mobile-friendly and cross-browser compatible
    Animated counters and FAQ accordion
-   Clean and modular code structure
+   Clean and modular code structure.
 

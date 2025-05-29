@@ -8,6 +8,7 @@ A fully responsive modern digital agency website built using HTML5, CSS3, Bootst
 - Swiper.js
 
 *Features
+
    Fully responsive layout
    Modern agency design
    Smooth navigation and transitions
